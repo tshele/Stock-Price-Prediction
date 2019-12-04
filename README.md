@@ -12,4 +12,4 @@
 
 ## NEXT STEP 
 
-* Run the code as written the repository step by step
+* Run the code as written in the repository step by step
